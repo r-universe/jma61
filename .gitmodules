@@ -5,3 +5,4 @@
 [submodule "jstats"]
 	path = jstats
 	url = https://github.com/JMA61/jstats
+	branch = *release
