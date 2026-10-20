@@ -5,4 +5,4 @@
 [submodule "jstats"]
 	path = jstats
 	url = https://github.com/JMA61/jstats
-	branch = v0.9.223
+	branch = v0.9.252
